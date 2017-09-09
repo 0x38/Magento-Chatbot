@@ -142,6 +142,8 @@ Conversation
 ![ScreenShot](https://raw.githubusercontent.com/blopa/Magento-Chatbot/master/screenshots/conversation.jpg)
 
 ## Release Notes
+- **v0.0.17:**
+	- Add Abandoned Cart messages
 - **v0.0.16:**
 	- Code improvements
 	- Fix flood of messages when disabling bot for human respond
@@ -262,7 +264,7 @@ A: Thank you! You can help by codding more features, creating pull requests, or 
 	- Save messages on database before sending to make sure it will be sent eventually
 	- Add compatibility with configurable products
 	- Add compatibility with products with custom options
-	- Add "abandoned cart" messages
+	- Better approach for Abandoned Carts
 	- Add `CDATA` and `<tooltip>` to configuration descriptions
 
 ## License
